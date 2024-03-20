@@ -1,5 +1,5 @@
 const Circles = () => {
-  return <div>Circles</div>;
+  return <div></div>;
 };
 
 export default Circles;
